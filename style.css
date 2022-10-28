@@ -1,13 +1,13 @@
 /* reset base styles */
 ul {
-  margin:0;
+  margin: 0;
   padding: 0;
 }
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 /* Basic Style */
 .body {
@@ -139,14 +139,14 @@ input,button{
 
 /* Edit Task */
 .input-text {
-  display:none
+  display: none
 }
 
 .list-item.todo__list-item--edit .input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list-item.todo__list-item--edit .label {
-  display:none;
+  display: none;
 }
