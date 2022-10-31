@@ -42,8 +42,8 @@ button {
   width: 500px;
   margin: 0 auto 0;
 }
-.todo__label,
-.todo__input.input-text {
+.label,
+.input-text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -140,7 +140,7 @@ button {
 }
 
 /* Edit Task */
-.input-text {
+.list-item .input-text {
   display: none;
 }
 
