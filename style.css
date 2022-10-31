@@ -144,11 +144,11 @@ button {
   display: none;
 }
 
-.list-item.todo__list-item--edit .input-text {
+.list-item--edit .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.list-item.todo__list-item--edit .label {
+.list-item--edit .label {
   display: none;
 }
